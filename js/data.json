@@ -27,7 +27,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -105,7 +105,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -183,7 +183,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -261,7 +261,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -339,7 +339,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -417,7 +417,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -495,7 +495,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -573,7 +573,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -651,7 +651,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -729,7 +729,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -812,7 +812,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -890,7 +890,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -968,7 +968,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1046,7 +1046,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1124,7 +1124,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1202,7 +1202,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1280,7 +1280,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1358,7 +1358,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1436,7 +1436,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1514,7 +1514,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1597,7 +1597,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1675,7 +1675,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1753,7 +1753,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1831,7 +1831,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1909,7 +1909,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -1987,7 +1987,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -2065,7 +2065,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -2143,7 +2143,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -2221,7 +2221,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -2299,7 +2299,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -2382,7 +2382,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -2460,7 +2460,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -2538,7 +2538,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -2616,7 +2616,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -2694,7 +2694,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -2772,7 +2772,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -2850,7 +2850,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -2928,7 +2928,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -3006,7 +3006,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -3084,7 +3084,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -3167,7 +3167,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -3245,7 +3245,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -3323,7 +3323,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -3401,7 +3401,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -3479,7 +3479,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -3557,7 +3557,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -3635,7 +3635,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -3713,7 +3713,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -3791,7 +3791,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
@@ -3869,7 +3869,7 @@
               "tipo": "lectura",
               "label": "Title for lectura content",
               "url": "",
-              "obligatorio": true,
+              "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
             },
