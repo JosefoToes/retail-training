@@ -1,0 +1,3929 @@
+{
+  "data": [
+    {
+      "negocio": "Outlet 1",
+      "contenidos": [
+        {
+          "name": "Outlet level 1",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 2",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 3",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 4",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 5",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 6",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 7",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 8",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 9",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 10",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "negocio": "Outlet 2",
+      "contenidos": [
+        {
+          "name": "Outlet level 1",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 2",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 3",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 4",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 5",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 6",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 7",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 8",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 9",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 10",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "negocio": "Outlet 3",
+      "contenidos": [
+        {
+          "name": "Outlet level 1",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 2",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 3",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 4",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 5",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 6",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 7",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 8",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 9",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 10",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "negocio": "Outlet 4",
+      "contenidos": [
+        {
+          "name": "Outlet level 1",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 2",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 3",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 4",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 5",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 6",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 7",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 8",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 9",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 10",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "negocio": "Outlet 5",
+      "contenidos": [
+        {
+          "name": "Outlet level 1",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 2",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 3",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 4",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 5",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 6",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 7",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 8",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 9",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 10",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "website",
+              "label": "Title for website content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "descarga",
+              "label": "Title for descarga content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
