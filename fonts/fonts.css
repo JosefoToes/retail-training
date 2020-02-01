@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Bogle';
+    src: url('bogle-black.eot');
+    src: url('bogle-black.eot?#iefix') format('embedded-opentype'),
+         url('bogle-black.woff2') format('woff2'),
+         url('bogle-black.woff') format('woff'),
+         url('bogle-black.ttf') format('truetype'),
+         url('bogle-black.svg#bogleblack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bogleblack_italic';
+    src: url('bogle-blackitalic.eot');
+    src: url('bogle-blackitalic.eot?#iefix') format('embedded-opentype'),
+         url('bogle-blackitalic.woff2') format('woff2'),
+         url('bogle-blackitalic.woff') format('woff'),
+         url('bogle-blackitalic.ttf') format('truetype'),
+         url('bogle-blackitalic.svg#bogleblack_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bogle';
+    src: url('bogle-bold.eot');
+    src: url('bogle-bold.eot?#iefix') format('embedded-opentype'),
+         url('bogle-bold.woff2') format('woff2'),
+         url('bogle-bold.woff') format('woff'),
+         url('bogle-bold.ttf') format('truetype'),
+         url('bogle-bold.svg#boglebold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'boglebold_italic';
+    src: url('bogle-bolditalic.eot');
+    src: url('bogle-bolditalic.eot?#iefix') format('embedded-opentype'),
+         url('bogle-bolditalic.woff2') format('woff2'),
+         url('bogle-bolditalic.woff') format('woff'),
+         url('bogle-bolditalic.ttf') format('truetype'),
+         url('bogle-bolditalic.svg#boglebold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bogle';
+    src: url('bogle-regular.eot');
+    src: url('bogle-regular.eot?#iefix') format('embedded-opentype'),
+         url('bogle-regular.woff2') format('woff2'),
+         url('bogle-regular.woff') format('woff'),
+         url('bogle-regular.ttf') format('truetype'),
+         url('bogle-regular.svg#bogleregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bogleitalic';
+    src: url('bogle-regularitalic.eot');
+    src: url('bogle-regularitalic.eot?#iefix') format('embedded-opentype'),
+         url('bogle-regularitalic.woff2') format('woff2'),
+         url('bogle-regularitalic.woff') format('woff'),
+         url('bogle-regularitalic.ttf') format('truetype'),
+         url('bogle-regularitalic.svg#bogleitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
