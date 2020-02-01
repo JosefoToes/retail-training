@@ -131,7 +131,7 @@
               "url": "https://doma.in/path/to/directory",
               "obligatorio": true,
               "modal": "",
-              "tiempo": ""
+              "tiempo": "10 min"
             },
             {
               "tipo": "website",
@@ -139,7 +139,7 @@
               "url": "https://doma.in/path/to/directory",
               "obligatorio": true,
               "modal": "",
-              "tiempo": ""
+              "tiempo": "80 min"
             },
             {
               "tipo": "descarga",
@@ -210,14 +210,20 @@
               "obligatorio": true,
               "modal": "",
               "tiempo": ""
-            },
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 3",
+          "objetivo": "Place level description here",
+          "elmnts": [
             {
               "tipo": "website",
               "label": "Title for website content",
               "url": "https://doma.in/path/to/directory",
               "obligatorio": true,
               "modal": "",
-              "tiempo": ""
+              "tiempo": "60 min"
             },
             {
               "tipo": "descarga",
@@ -288,6 +294,20 @@
               "obligatorio": true,
               "modal": "",
               "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 4",
+          "objetivo": "Place level description here",
+          "elmnts": [
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "60 min"
             },
             {
               "tipo": "website",
@@ -2954,7 +2974,7 @@
               "url": "https://doma.in/path/to/directory",
               "obligatorio": true,
               "modal": "",
-              "tiempo": ""
+              "tiempo": "80 min"
             },
             {
               "tipo": "website",
@@ -3333,7 +3353,15 @@
               "url": "https://doma.in/path/to/directory",
               "obligatorio": true,
               "modal": "",
-              "tiempo": "10 min"
+              "tiempo": ""
+            },
+            {
+              "tipo": "lectura",
+              "label": "Title for lectura content",
+              "url": "",
+              "obligatorio": true,
+              "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
+              "tiempo": ""
             },
             {
               "tipo": "video",
@@ -3367,6 +3395,20 @@
               "modal": "",
               "tiempo": ""
             },
+            {
+              "tipo": "busqueda",
+              "label": "Title for busqueda content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": ""
+            }
+          ]
+        },
+        {
+          "name": "Outlet level 4",
+          "objetivo": "Place level description here",
+          "elmnts": [
             {
               "tipo": "busqueda",
               "label": "Title for busqueda content",
@@ -3716,6 +3758,22 @@
               "obligatorio": false,
               "modal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ultricies enim, id tristique nibh. Sed mollis, enim sit amet pulvinar maximus, leo eros iaculis eros, et malesuada justo sem quis orci. ",
               "tiempo": ""
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "10 min"
+            },
+            {
+              "tipo": "video",
+              "label": "Title for video content",
+              "url": "https://doma.in/path/to/directory",
+              "obligatorio": true,
+              "modal": "",
+              "tiempo": "80 min"
             },
             {
               "tipo": "video",
